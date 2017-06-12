@@ -12,6 +12,9 @@
 
 namespace chitwarnold\ais\sms;
 
+
+use chitwarnold\ais\sms\AfricasTalkingGatewayException;
+
 /*
 
   # COPYRIGHT (C) 2014 AFRICASTALKING LTD <www.africastalking.com>
