@@ -1,5 +1,5 @@
-PHP Africas Talking Web Services APIs \[unofficial\] By Gomersol Technologies  
-==============================================================================
+PHP Africas Talking Web Services APIs \[unofficial\] By Gomersol Technologies(http://gomersol.com)
+==================================================================================================
 
 This is the code for consuming the web services for [Africas Talking](https://africastalking.com). 
 The Web Services allow you to access their products namely Payments,SMS,Voice,USSD,Airtime through the exposed API's in a standardized fashion.
