@@ -72,11 +72,11 @@ class AfricasTalkingGateway
     //Messaging methods
 
     /**
-     * @param $to_
-     * @param $message_
-     * @param null $from_
-     * @param int $bulkSMSMode_
-     * @param array $options_
+     * @param string $to_  - the number to send to, should include country prefix
+     * @param string $message_ - the message body to be sent
+     * @param mixed $from_ - the sender_id to use for sending the message
+     * @param int $bulkSMSMode_ - is the sms sent in bulksms mode
+     * @param array $options_ - send options
      * @return mixed
      * @throws AfricasTalkingGatewayException
      */
