@@ -1,0 +1,16 @@
+{
+    "name": "chitwarnold/ais",
+    "description": "Allows you to Consume Africa's Talking Products via Web API's",
+    "type": "library",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Arnold Chitwa Astrill",
+            "email": "chitwarnie@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4":{ "Chitwarold\\Ais\\":"src/"}
+	}
+}
