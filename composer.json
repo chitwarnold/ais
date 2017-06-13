@@ -3,7 +3,7 @@
     "description": "Allows you to Consume Africa's Talking Products via Web API's",
     "type": "library",
     "license": "BSD",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "authors": [
         {
             "name": "Arnold Chitwa Astrill",
@@ -12,6 +12,6 @@
     ],
     "require": {},
     "autoload": {
-	"psr-4":{ "Chitwarold\\Ais\\":"src/"}
+	"psr-4":{ "chitwarnold\\ais\\":"src/"}
 	}
 }
